@@ -2,3 +2,4 @@ Olá, mundo!
 Este é um arquivo de teste do projeto TesteIOT.
 Objetivo: colocar arquivos no GitHub e cloná-los em um terminal da AWS.
 Se você está lendo este texto na AWS após executar git clone, a cópia funcionou.
+Arquivo modificado pelo AWS CloudShell.
